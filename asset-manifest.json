@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b6000dd.css",
+    "main.js": "/static/js/main.a691558f.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/hoaTulip.png": "/static/media/hoaTulip.f0a705aae8148d688670.png",
+    "static/media/hoaHong.jpg": "/static/media/hoaHong.0302d54c9ec4ac6d0c3a.jpg",
+    "static/media/hoaHuongDuong.jpg": "/static/media/hoaHuongDuong.3cff25594ef95e323cec.jpg",
+    "static/media/hoaLuoiHo.png": "/static/media/hoaLuoiHo.f70016d1cc609b37c41a.png",
+    "static/media/hoaHongDen.png": "/static/media/hoaHongDen.85a2f8d1027fa40f00d6.png",
+    "static/media/hoaSen.jpeg": "/static/media/hoaSen.75ff89a23bf393e5833d.jpeg",
+    "static/media/hoaCamTuCau.jpg": "/static/media/hoaCamTuCau.4f4f69f6f5f0d14a0900.jpg",
+    "static/media/hoaOaiHuong.jpg": "/static/media/hoaOaiHuong.1ba697fbcfa7b3fa32ff.jpg",
+    "static/media/hoaBaby.jpg": "/static/media/hoaBaby.6ab9e1cc4fe4f3772488.jpg",
+    "static/media/hoaAnhDao.jpg": "/static/media/hoaAnhDao.88a040ab052bd00b9577.jpg",
+    "static/media/hoaPhongLan.jpg": "/static/media/hoaPhongLan.f0ccb35e7c310757aa6c.jpg",
+    "static/media/hoaHongTrang.jpg": "/static/media/hoaHongTrang.6174ed17a1142fdcdc05.jpg",
+    "static/media/hoaLy.jpg": "/static/media/hoaLy.d5c8a83a9585d7519f21.jpg",
+    "static/media/hoaHueTay.jpg": "/static/media/hoaHueTay.690acb72307e32647dd1.jpg",
+    "static/media/hoaLanHoDiep.jpg": "/static/media/hoaLanHoDiep.7b1d8781eaf107b117b3.jpg",
+    "static/media/giohang2.jpg": "/static/media/giohang2.d2e2b9d69041683b3596.jpg",
+    "static/media/Facebook_Logo.png": "/static/media/Facebook_Logo.c278992ab0aa7d7328f3.png",
+    "static/media/hoaCucHoaMi.jpg": "/static/media/hoaCucHoaMi.5b99eaee6809e193ddc8.jpg",
+    "static/media/logoInternet.jpg": "/static/media/logoInternet.68bb111a624231317db2.jpg",
+    "static/media/tuvanvien.jpg": "/static/media/tuvanvien.26c45aa723f89d51ea4e.jpg",
+    "static/media/zaloLogo.png": "/static/media/zaloLogo.d2a57fc61d7b674a1385.png",
+    "index.html": "/index.html",
+    "main.7b6000dd.css.map": "/static/css/main.7b6000dd.css.map",
+    "main.a691558f.js.map": "/static/js/main.a691558f.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b6000dd.css",
+    "static/js/main.a691558f.js"
+  ]
+}
